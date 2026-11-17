@@ -1,0 +1,70 @@
+{
+  "checkedAt": "2026-11-16",
+  "primarySource": "https://nether.wowhead.com/forever/tw/data/talents-classic?dv=34&db=1794343902",
+  "sourceSha256": "d2133153b95e0ab6395ecf8c2c5be393ec13a9a2990eee871c4b9dbb92ffe1e0",
+  "dataRevision": "wowhead-1794343902",
+  "crosscheckBuild": "1.60.1.70938",
+  "coverage": {
+    "classes": 9,
+    "trees": 27,
+    "talents": 467,
+    "localIcons": 374,
+    "rankDescriptions": 1297
+  },
+  "excluded": {
+    "inactiveHunterNodes": [
+      104982,
+      105003
+    ],
+    "inactivePriestNodes": [
+      105865
+    ]
+  },
+  "localization": {
+    "primary": "zh-TW",
+    "provisionalNames": [
+      {
+        "id": 113629,
+        "name": "超渡邪惡",
+        "sourceName": "Turn Evil"
+      },
+      {
+        "id": 105718,
+        "name": "鮮血飛濺",
+        "sourceName": "Blood Splatter"
+      },
+      {
+        "id": 105740,
+        "name": "鋼光乍現",
+        "sourceName": "Flash of Steel"
+      },
+      {
+        "id": 105750,
+        "name": "靴藏短刃",
+        "sourceName": "Boot Knife"
+      },
+      {
+        "id": 105856,
+        "name": "神聖束縛",
+        "sourceName": "Holy Binding"
+      },
+      {
+        "id": 104951,
+        "name": "掠食者紀律",
+        "sourceName": "Predatory Discipline"
+      },
+      {
+        "id": 104918,
+        "name": "綻放",
+        "sourceName": "Bloom"
+      }
+    ]
+  },
+  "notes": [
+    "永恆專用資料；與 Classic、探索賽季及正式版分開。",
+    "九職業的可購買天賦數、列位置、等級上限已與客戶端 1.60.1.70938 資料交叉核對。",
+    "7 個來源尚未本地化的英文名稱採本站暫譯；提示中保留英文原名。",
+    "數值為來源基礎說明；會隨角色屬性、等級與後續熱修變動。",
+    "World of Warcraft 圖像、名稱及遊戲資料屬 Blizzard Entertainment 或原權利人。"
+  ]
+}

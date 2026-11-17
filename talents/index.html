@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#14201f"><title>小比百貨｜永恆天賦模擬器</title><meta name="description" content="魔獸世界永恆九職業繁中天賦模擬器。選職業、等級，點好天賦後複製連結或文字，分享給公會朋友。"><link rel="stylesheet" href="style.css?v=2"></head>
+<body>
+ <header class="site-header"><a class="brand" href="../" aria-label="小比百貨首頁"><img src="../assets/logo.png" alt="小比百貨公會商標" width="48" height="48"><span><strong>小比百貨</strong><small>魔獸世界・永恆</small></span></a><nav aria-label="工具"><a href="../">導航</a><a href="./" aria-current="page">天賦模擬器</a></nav></header>
+ <main>
+  <div class="page-title"><div><p class="eyebrow">永恆九職業</p><h1>天賦模擬器</h1></div><p class="howto" id="howto">移到天賦看效果，點一下加點；用「減點」扣除，配好後複製分享。</p></div>
+  <section class="controls" aria-label="配點設定">
+   <label>職業<select id="classSelect" aria-label="職業"></select></label>
+   <label>等級<input id="levelInput" type="number" min="1" max="60" step="1" value="60" inputmode="numeric" aria-label="角色等級"></label>
+   <div class="budget"><strong id="spentCount">0／51</strong><span>已用點數</span></div>
+   <div class="control-actions"><button id="removeMode" type="button" aria-pressed="false">減點</button><button id="resetAll" type="button">全部重置</button><button id="copyLink" type="button" class="primary">複製分享連結</button><button id="copyText" type="button">複製配點文字</button></div>
+  </section>
+  <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+  <div class="allocation-summary"><span id="treeSummary"></span><details class="advanced"><summary>傳承設定</summary><label>天賦異稟 <select id="talentedSelect" aria-label="天賦異稟階級"><option value="0">未點</option><option value="1">1 階</option><option value="2">2 階</option><option value="3">3 階</option><option value="4">4 階</option><option value="5">5 階</option></select></label><small>僅調整較早取得點數的等級；總上限仍為 51 點。</small></details></div>
+  <div id="specTabs" class="spec-tabs" role="tablist" aria-label="天賦系"></div>
+  <section id="trees" class="trees" aria-label="職業天賦樹"></section>
+  <div class="talent-tooltip" id="detail" role="tooltip" hidden></div>
+ </main>
+ <footer>小比百貨・公會冒險工具</footer>
+ <dialog id="shareFallback"><form method="dialog"><h2>複製配點</h2><p>瀏覽器未開放自動複製，請選取下方內容複製。</p><textarea id="shareContent" readonly aria-label="可複製的配點內容"></textarea><button class="primary">關閉</button></form></dialog>
+ <script type="module" src="app.js?v=4"></script>
+</body></html>

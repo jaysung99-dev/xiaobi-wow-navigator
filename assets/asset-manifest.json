@@ -1,0 +1,1841 @@
+[
+  {
+    "mapId": 1455,
+    "name": "鐵爐堡",
+    "file": "assets/maps/ironforge-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1537.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 119757,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -5096.8,
+          -1504.2,
+          -4569.2,
+          -713.6
+        ]
+      }
+    ],
+    "sha256": "af57225d79583c165097f60ff46164d937ff83c7aa49d5f91f007cfe12f00a3b",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1453,
+    "name": "暴風城",
+    "file": "assets/maps/stormwind-city-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/wrath/maps/zhtw/original/1519.jpg",
+    "page": "https://www.wowhead.com/wrath/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 119612,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -9154.2,
+          -14.6,
+          -7995.8,
+          1722.9
+        ]
+      }
+    ],
+    "sha256": "48c9b28159e09399f6fbfafd5404fb54afd9f53539c634ba93cb19d5d9a84119",
+    "language": "zh-TW",
+    "artworkVersion": "wrath",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1426,
+    "name": "丹莫洛",
+    "file": "assets/maps/dun-morogh-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 145052,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -7160.4,
+          -3122.9,
+          -3877.1,
+          1802.1
+        ]
+      }
+    ],
+    "sha256": "f5f89ab49637ae40c16f6bc034201c09002fa5beb8dc353281f34669c661e1bf",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1429,
+    "name": "艾爾文森林",
+    "file": "assets/maps/elwynn-forest-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/12.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 140574,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -10254.2,
+          -1935.4,
+          -7939.6,
+          1535.4
+        ]
+      }
+    ],
+    "sha256": "751cd0cd40e52d2a07cdc517ca7427eb4e471fff3cdae7e70e002d337ba25359",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1437,
+    "name": "濕地",
+    "file": "assets/maps/wetlands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/11.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 147628,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -4904.2,
+          -4525,
+          -2147.9,
+          -389.6
+        ]
+      }
+    ],
+    "sha256": "330bb908c8bb834ff28c6b69cbb670e0bde2165b17e40357e260c963d9b99944",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1445,
+    "name": "塵泥沼澤",
+    "file": "assets/maps/dustwallow-marsh-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/15.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 132661,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -5533.3,
+          -6225,
+          -2033.3,
+          -975
+        ]
+      }
+    ],
+    "sha256": "418ad3cf5cff495650e03830b14b462deabbb1e91215f88f8cd25462e346c857",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1413,
+    "name": "貧瘠之地",
+    "file": "assets/maps/the-barrens-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/17.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 129630,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -5143.7,
+          -7510.4,
+          1612.5,
+          2622.9
+        ]
+      }
+    ],
+    "sha256": "c2adbe05d4f10e24fb4e3e574a3a07c7ad75d67b7e18a736ce9ddec44ca661dc",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1434,
+    "name": "荊棘谷",
+    "file": "assets/maps/stranglethorn-vale-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/33.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 140607,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -15422.9,
+          -4160.4,
+          -11168.7,
+          2220.8
+        ]
+      }
+    ],
+    "sha256": "336a3c688533959d99af2637ec0470b27dda30ad1a2a5833404b333dd2e1b16d",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1424,
+    "name": "希爾斯布萊德丘陵",
+    "file": "assets/maps/hillsbrad-foothills-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/267.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 128822,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -1733.3,
+          -2133.3,
+          400,
+          1066.7
+        ]
+      }
+    ],
+    "sha256": "4f7cbf58967bf24a08c38b96de0d4d2f9929e0abb60158eb4fa79342dc3b26df",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1439,
+    "name": "黑海岸",
+    "file": "assets/maps/darkshore-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/148.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 684,
+    "bytes": 127017,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          3966.7,
+          -3608.3,
+          8333.3,
+          2941.7
+        ]
+      }
+    ],
+    "sha256": "632be32e7867d673ea1fa23b9e82cb683ba76a99ae934e3dc59e05b7891f7fe5",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1438,
+    "name": "泰達希爾",
+    "file": "assets/maps/teldrassil-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/141.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 147188,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          8437.5,
+          -1277.1,
+          11831.3,
+          3814.6
+        ]
+      }
+    ],
+    "sha256": "e3fbf8d7020be2546553b2b91b3bd0894bd8c047ee0c10853e69047423f06051",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1457,
+    "name": "達納蘇斯",
+    "file": "assets/maps/darnassus-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1657.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 115962,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          9532.6,
+          1880,
+          10238.3,
+          2938.4
+        ]
+      }
+    ],
+    "sha256": "16be9dbe95fa98f2c3fc3e4c9b555ad38052b7185cb4171872159c49dca1bc60",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1440,
+    "name": "梣谷",
+    "file": "assets/maps/ashenvale-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/331.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 134226,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          829.2,
+          -4066.7,
+          4672.9,
+          1700
+        ]
+      }
+    ],
+    "sha256": "10b397898a505f013ba150c48212d88aff4422c1f45b1ba647e5990f4a98587e",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1432,
+    "name": "洛克莫丹",
+    "file": "assets/maps/loch-modan-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/38.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 143685,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -6327.1,
+          -4752.1,
+          -4487.5,
+          -1993.7
+        ]
+      }
+    ],
+    "sha256": "5e78c93542fd9c741bba57cb7a2c2888101264b2587682e25599a89121c18cf4",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1436,
+    "name": "西部荒野",
+    "file": "assets/maps/westfall-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/40.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 133158,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -11733.3,
+          -483.3,
+          -9400,
+          3016.7
+        ]
+      }
+    ],
+    "sha256": "f48a567ec278dc44329aade37205f496a984f9592059cd0dbd38c73ba3a961c5",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1433,
+    "name": "赤脊山",
+    "file": "assets/maps/redridge-mountains-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/1433.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 135250,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -10022.9,
+          -3852.1,
+          -8575,
+          -1681.2
+        ]
+      }
+    ],
+    "sha256": "d7987d5db96797801ef5040b5f8a955fb31df9aad934b07db8e4ada6863aa75a",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceCheckedAt": "2026-11-16",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 1431,
+    "name": "暮色森林",
+    "file": "assets/maps/duskwood-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/10.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 138669,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -11516.7,
+          -1866.7,
+          -9716.7,
+          833.3
+        ]
+      }
+    ],
+    "sha256": "af4ec0be1cbdb2dec8eebe01f29ccefe690e3258666339bb5bd6d2d864264621",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 1442,
+    "name": "石爪山脈",
+    "file": "assets/maps/stonetalon-mountains-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/406.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 132652,
+    "coordinateSystem": "0–100 x/y; SVG page maps every pin to full image width/height",
+    "checkedAt": "2026-11-16",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -339.6,
+          -1637.5,
+          2916.7,
+          3245.8
+        ]
+      }
+    ],
+    "sha256": "3427669e964cf4c870d90b321774353a773ea54f026a668d8f062183e6565ef7",
+    "language": "zh-TW",
+    "artworkVersion": "classic",
+    "sourceCheckedAt": "2026-11-16"
+  },
+  {
+    "mapId": 947,
+    "name": "艾澤拉斯",
+    "file": "assets/maps/azeroth-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/-1.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 133152,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0.0399,
+          0.0855,
+          0.4083,
+          0.9234
+        ],
+        "world": [
+          -12800,
+          -9600,
+          12266.7,
+          6933.3
+        ]
+      },
+      {
+        "map": 0,
+        "ui": [
+          0.5505,
+          0.0994,
+          0.8966,
+          0.8691
+        ],
+        "world": [
+          -16000,
+          -7466.7,
+          6933.3,
+          8000
+        ]
+      }
+    ],
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "fe3e9fec890f506c6a3990f36b94d0a19cc9b79a85468d15ff640557ae08b2f8",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1414,
+    "name": "卡林多",
+    "file": "assets/maps/kalimdor-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/1414.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 157620,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -11733.3,
+          -19733.2,
+          12799.9,
+          17066.6
+        ]
+      }
+    ],
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "ec0c8c916a63e8dfac1c6db6a928f2388b41d32de1691066add5fb1f3f514f25",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 1415,
+    "name": "東部王國",
+    "file": "assets/maps/eastern-kingdoms-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/-3.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 125388,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -16000,
+          -19199.9,
+          7466.6,
+          16000
+        ]
+      }
+    ],
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "435bf4461c95c61ce95e68892f5b60280b18fa98debe5f275ec800e74468fce7",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1411,
+    "name": "杜洛塔",
+    "file": "assets/maps/durotar-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/14.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 138719,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -1716.7,
+          -7250,
+          1808.3,
+          -1962.5
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "ba82a442072b1ecc41d00434188c310b141eee44d6356519efa26e997f050bfd",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1412,
+    "name": "莫高雷",
+    "file": "assets/maps/mulgore-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/1412.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 131716,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -3835.4,
+          -3675,
+          266.7,
+          2479.2
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "e03647a5e2435859318d386a532db9d060a7c5ebcce067f19b8b10d2409b548e",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 1416,
+    "name": "奧特蘭克山脈",
+    "file": "assets/maps/alterac-mountains-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/36.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 143308,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -366.7,
+          -2016.7,
+          1500,
+          783.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "fc6ca25b4eb7606cda0c77dc1bb40789167831b5cc287a03a3139a8bc6c7b968",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1417,
+    "name": "阿拉希高地",
+    "file": "assets/maps/arathi-highlands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/45.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 135998,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -2533.3,
+          -4466.7,
+          -133.3,
+          -866.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "7631795978d973f72122766458425650638c54ab2a9e95de099c7263ee7724ad",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1418,
+    "name": "荒蕪之地",
+    "file": "assets/maps/badlands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/wrath/maps/zhtw/original/3.jpg",
+    "page": "https://www.wowhead.com/wrath/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 121160,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -7547.9,
+          -4566.7,
+          -5889.6,
+          -2079.2
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "184a24332246c78b6191cd3694548da9f6d4f5602030db53716227c28a8bf56f",
+    "language": "zh-TW",
+    "artworkVersion": "wrath"
+  },
+  {
+    "mapId": 1419,
+    "name": "詛咒之地",
+    "file": "assets/maps/blasted-lands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/4.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 124541,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -12800,
+          -4591.7,
+          -10566.7,
+          -1241.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "c65f907d6df14d825a90cc9b5a365d810866d5c9f4adda0327230327acbdd17b",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1420,
+    "name": "提里斯法林地",
+    "file": "assets/maps/tirisfal-glades-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/85.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 134857,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          825,
+          -1485.4,
+          3837.5,
+          3033.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "4201ac442959a40e2bf727aa18879f5e426b47f91f9a258caf37f96b58a6770e",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1421,
+    "name": "銀松森林",
+    "file": "assets/maps/silverpine-forest-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/130.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 138866,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -1133.3,
+          -750,
+          1666.7,
+          3450
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "36f1ec0f9bf9156e5ffc75704ad2b00e9a800e269456191f7071db1c6a1a8730",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1422,
+    "name": "西瘟疫之地",
+    "file": "assets/maps/western-plaguelands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/28.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 132604,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          500,
+          -3883.3,
+          3366.7,
+          416.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "f4af4da74e1e18dca852b95cec7ab9da34a77e361b26b81bf4fee33a3bf1831d",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1423,
+    "name": "東瘟疫之地",
+    "file": "assets/maps/eastern-plaguelands-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/1423.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 112402,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          825,
+          -6558.3,
+          3691.7,
+          -2256.2
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "e9bd25d399b485d393115be265f332d865de9789bc55289c4817812fc9c02d87",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 1425,
+    "name": "辛特蘭",
+    "file": "assets/maps/the-hinterlands-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/47.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 135761,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -1100,
+          -5425,
+          1466.7,
+          -1575
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "59b6d93a24b4b557395182b4bb61228cbf6b6ee9652d389925c52ff55b709673",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1427,
+    "name": "灼熱峽谷",
+    "file": "assets/maps/searing-gorge-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/51.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 124608,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -7587.5,
+          -2554.2,
+          -6100,
+          -322.9
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "feaf765da657b0e088eb05fc4c21f75585d26c10d9e62353dcf6fd6427ba0f50",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1428,
+    "name": "燃燒平原",
+    "file": "assets/maps/burning-steppes-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/46.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 122423,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -8983.3,
+          -3195.8,
+          -7031.2,
+          -266.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "40f3a7f090f95a7593aeffff3485237741f0a3b410ec48a42feda7983c882420",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1430,
+    "name": "逆風小徑",
+    "file": "assets/maps/deadwind-pass-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/41.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 119939,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -11533.3,
+          -3333.3,
+          -9866.7,
+          -833.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "a59b2d43e80514191ced614451e2bf747dda986feef760e8b06b12e7eaba42ec",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1435,
+    "name": "悲傷沼澤",
+    "file": "assets/maps/swamp-of-sorrows-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/8.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 140092,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -11150,
+          -4516.7,
+          -9620.8,
+          -2222.9
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "018587806fe837436391ffafc77fee9813d6e72400dd40f805b3afedb5a536e1",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1441,
+    "name": "千針石林",
+    "file": "assets/maps/thousand-needles-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/400.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 113000,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -6900,
+          -4833.3,
+          -3966.7,
+          -433.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "4c19d736e8835fef35f90278d00920458294ed5b0c92cdaced5e8e19be0cf3d8",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1443,
+    "name": "淒涼之地",
+    "file": "assets/maps/desolace-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/405.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 137932,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -2545.8,
+          -262.5,
+          452.1,
+          4233.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "bb20047f1c37f02d00db58de4ae75190bab0680304deb31ced732e096f3d6a9b",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1444,
+    "name": "菲拉斯",
+    "file": "assets/maps/feralas-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/357.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 125940,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -7000,
+          -1508.3,
+          -2366.7,
+          5441.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "3c344f20e835c1e893797e51bc08ddfdf1a58d02169fe5f7c7b2e5657972bb45",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1446,
+    "name": "塔納利斯",
+    "file": "assets/maps/tanaris-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/440.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 135037,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -10475,
+          -7118.7,
+          -5875,
+          -218.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "2b1d8aaa0c2ba08a26eb321d780c9a0afdfcc6096d9819500dfaa3ef4d26f925",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1447,
+    "name": "艾薩拉",
+    "file": "assets/maps/azshara-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/16.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 130911,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          1960.4,
+          -8347.9,
+          5341.7,
+          -3277.1
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "6c12bab4a8787141676c8ca59a64d30809b75e8b9092114a09ad7aa9773b66ab",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1448,
+    "name": "費伍德森林",
+    "file": "assets/maps/felwood-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/361.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 120949,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          3300,
+          -4108.3,
+          7133.3,
+          1641.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "404d2d7f60afface1b5710b3bfa17e1aa693513dbccfb8f2c9ec30905e3ae8ee",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1449,
+    "name": "安戈洛環形山",
+    "file": "assets/maps/ungoro-crater-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/490.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 130657,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -8433.3,
+          -3166.7,
+          -5966.7,
+          533.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "b31229acce3c48a15380c3c6faaf27c1fe7439dd76c1541aa70ef1b32231e481",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1450,
+    "name": "月光林地",
+    "file": "assets/maps/moonglade-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/493.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 119526,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          6952.1,
+          -3689.6,
+          8491.7,
+          -1381.2
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "532ce559782432104ecf70d2fde9c5c16df4d0a6e100973fbaf63d92077d51e6",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1451,
+    "name": "希利蘇斯",
+    "file": "assets/maps/silithus-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1377.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 684,
+    "bytes": 116628,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -8281.2,
+          -945.8,
+          -5958.3,
+          2537.5
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "782e0ea791712f91832b2d2be3710c776c7548df91efe561f1984f8aba9511f2",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1452,
+    "name": "冬泉谷",
+    "file": "assets/maps/winterspring-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/618.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 128171,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          3800,
+          -7416.7,
+          8533.3,
+          -316.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "7febcf792f541ed16b0f5b33ae7204ad740ff2ade8b25e6159c74a57469e7d02",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1454,
+    "name": "奧格瑪",
+    "file": "assets/maps/orgrimmar-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1637.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 689,
+    "bytes": 121421,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          1338.5,
+          -5083.2,
+          2273.9,
+          -3680.6
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "9dfabafacf80c212e81820c18da1f4d6aa4014aba824fdba73755322de523210",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1456,
+    "name": "雷霆崖",
+    "file": "assets/maps/thunder-bluff-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1638.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 110023,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -1545.8,
+          -527.1,
+          -850,
+          516.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "8a418aca5df23b7d6d1c63fcc7d230feee4d0ae3dc40a22b26d89c1f1f71cb29",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 1458,
+    "name": "幽暗城",
+    "file": "assets/maps/undercity-zhtw.jpg",
+    "source": "https://wow.zamimg.com/images/wow/classic/maps/zhtw/original/1497.jpg",
+    "page": "https://www.wowhead.com/classic/tw/maps",
+    "width": 1024,
+    "height": 683,
+    "bytes": 113373,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          1237.8,
+          -86.2,
+          1877.9,
+          873.2
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "6ffa581351ccb727df402060fafa5ba6837ced4e8ca0d129491616cd508aabb9",
+    "language": "zh-TW",
+    "artworkVersion": "classic"
+  },
+  {
+    "mapId": 2482,
+    "name": "海加爾山",
+    "file": "assets/maps/mount-hyjal-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/2482.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 153138,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          3989.6,
+          -4395.8,
+          6304.2,
+          -922.9
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "52ff7ce184a2485cdaa6682bfc8d5ee3bfe7e5703907d813dca380cf3880eebc",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 2521,
+    "name": "微風島",
+    "file": "assets/maps/zephras-isle-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/2521.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 152578,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 2991,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          1247.9,
+          -1331.2,
+          4956.3,
+          4231.3
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "d2c85e69d5da6ea7d70f279c76e168539d91d841eb297a6f08da2d139adeb725",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 2548,
+    "name": "大河林地",
+    "file": "assets/maps/riverglades-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/2548.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 142256,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 0,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -9700,
+          -6741.7,
+          -6466.7,
+          -1891.7
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "a36e0c2541d333df94b2a7c7b31a31bc89142a189ed2cce3b7996288313b9297",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  },
+  {
+    "mapId": 2652,
+    "name": "申德拉斯",
+    "file": "assets/maps/shendralas-zhtw.webp",
+    "source": "https://www.x1x.tw/wow/static/map/2652.webp",
+    "page": "https://www.x1x.tw/wow/exploration/",
+    "width": 1002,
+    "height": 668,
+    "bytes": 133578,
+    "coordinateSystem": "native game map with game world-region transforms",
+    "worldRegions": [
+      {
+        "map": 1,
+        "ui": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "world": [
+          -3266.7,
+          -25,
+          -1900,
+          2025
+        ]
+      }
+    ],
+    "version": "forever",
+    "build": "1.60.1.70790",
+    "sourceCheckedAt": "2026-11-16",
+    "checkedAt": "2026-11-16",
+    "sha256": "d0a03b3e320ef4c6715308415fb7b0faf93ea155f3e732c56db98d748c081a0d",
+    "language": "zh-TW",
+    "artworkVersion": "forever",
+    "sourceReportedBuild": "1.60.1.70938"
+  }
+]
